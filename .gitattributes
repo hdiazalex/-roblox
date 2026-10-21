@@ -8,3 +8,6 @@
 *.jpg binary
 *.ogg binary
 *.mp3 binary
+
+# Los .bat de Windows necesitan CRLF
+*.bat text eol=crlf
